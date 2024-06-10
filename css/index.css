@@ -1,0 +1,21 @@
+
+nav.menu {
+    background-color: #0C356A;
+}
+ul{
+
+    list-style: none;
+    position: relative;
+    
+ }
+ ul li.item-menu a {
+    
+position: relative;
+    padding: 12px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px 4%;
+}
+
+  
