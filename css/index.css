@@ -2,6 +2,7 @@ nav.menu {
     background-color: #0C356A;
 }
 
+
 ul {
     list-style: none;
     position: relative;
@@ -21,3 +22,31 @@ ul li.item-menu a {
     color: #ffffff;
 }
 
+img.logo{
+    width: 30%;
+    height: 20%;
+    position: relative;
+    margin-top: 10%;
+    left: 80px;
+    }
+    h1{
+ position: relative;
+     margin-top: 20%;
+    left: 80px;
+    text-align: justify;
+    letter-spacing: -1px;
+    }
+
+img.adolescentes{
+width: 30%;
+height: 40%;
+left: 60px;
+float: right;
+}
+
+img.fundo{
+    width: 50%;
+    height: 60%;
+    margin-top: 5%;
+    float: right;
+    }
