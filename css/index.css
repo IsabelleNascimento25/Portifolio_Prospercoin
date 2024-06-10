@@ -26,27 +26,33 @@ img.logo{
     width: 30%;
     height: 20%;
     position: relative;
-    margin-top: 10%;
+    margin-top: 5%;
     left: 80px;
     }
+    
     h1{
- position: relative;
-     margin-top: 20%;
-    left: 80px;
+    position: relative;
+    margin-top: 100px;
+    left: 100px;
+    width: 700px; /* Define a largura da caixa de texto justificado */
     text-align: justify;
     letter-spacing: -1px;
+
+    
     }
 
 img.adolescentes{
-width: 30%;
-height: 40%;
+width: 40%;
+height: 50%;
 left: 60px;
 float: right;
 }
 
 img.fundo{
-    width: 50%;
-    height: 60%;
-    margin-top: 5%;
+    
+    position: relative;
+    width: 110%;
+    height: 90%;
     float: right;
+    margin-top: 30%;
     }
