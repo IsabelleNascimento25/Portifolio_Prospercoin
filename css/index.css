@@ -1,21 +1,23 @@
-
 nav.menu {
     background-color: #0C356A;
 }
-ul{
 
+ul {
     list-style: none;
     position: relative;
-    
- }
- ul li.item-menu a {
-    
-position: relative;
-    padding: 12px;
-    color: #ffffff;
-    text-decoration: none;
-    font-size: 20px;
-    padding: 20px 4%;
+    padding: 0;
+    margin: 0;
+    text-align: right; 
 }
 
-  
+ul li.item-menu {
+    display: inline-block;
+}
+
+ul li.item-menu a {
+    display: inline-block;
+    padding: 12px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
