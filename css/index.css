@@ -1,5 +1,7 @@
 nav.menu {
     background-color: #0C356A;
+    height: 100px;
+    width: 100%;
 }
 
 
@@ -8,7 +10,8 @@ ul {
     position: relative;
     padding: 0;
     margin: 0;
-    text-align: right; 
+    text-align: right;
+    font-size: 25px;
 }
 
 ul li.item-menu {
@@ -17,28 +20,44 @@ ul li.item-menu {
 
 ul li.item-menu a {
     display: inline-block;
+    margin-top: 16px;
+    margin-bottom: 190px; 
     padding: 12px;
+    margin-left: 60px; 
     text-decoration: none;
     color: #ffffff;
+    
+    
 }
 
 img.logo{
     width: 40%;
     height: 20%;
     position: relative;
-    margin-top: 5%;
+    margin-top: 6%;
     left: 80px;
     }
+    /* Um aplicativo inovador que democratiza o acesso */
     
-    h1{
+    .texto_inicial{
     position: relative;
-    margin-top: 60%;
-    left: 100px;
+    margin-top: 4% ;
+    left: 140px;
+    height: 50%;
     width: 700px; /* Define a largura da caixa de texto justificado */
     text-align: justify;
-    letter-spacing: -1px;
-
+     letter-spacing: 2px;
     
+    }
+
+    /* Vem com a gente! */
+    .chamada{
+        position: relative;
+        margin-top: 3% ;
+        left: 140px;
+        width: 700px; /* Define a largura da caixa de texto justificado */
+        text-align: justify;
+     color: #0C356A;
     }
 
 img.adolescentes{
@@ -46,6 +65,10 @@ width: 40%;
 height: 50%;
 left: 60px;
 float: right;
+}
+.linha-separadora {
+    border-bottom: 1px solid black; /* Define a borda inferior */
+    margin: 20px 0; /* Adiciona espaço acima e abaixo da linha */
 }
 
 img.fundo{
