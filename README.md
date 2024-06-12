@@ -55,4 +55,4 @@ Desenvolvimento de scripts PHP para conectar a landing page ao banco de dados, p
 
 <br>
 Aluno: <br>
- <img src="isabelle.png" width="20px"> Isabelle Nascimento de Oliveira <br>
+ <img src="imagens/isabelle.PNG" width="20px"> Isabelle Nascimento de Oliveira <br>
