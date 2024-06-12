@@ -34,3 +34,25 @@ Configuração de um banco de dados SQL para armazenar as informações dos usu�
 Conexão com o Banco de Dados usando PHP:<br>
 Desenvolvimento de scripts PHP para conectar a landing page ao banco de dados, processando as informações dos formulários e inserindo dados no banco de dados, assegurando feedback adequado aos usuários.
 <br>
+## ⚙️Funcionalidades
+
+<br>
+### 📱Tecnologias utilizadas
+
+## 🔠Fontes consultadas
+
+    *https://scrollrevealjs.org/
+    
+    *https://www.behance.net/
+    
+    *https://br.freepik.com/
+
+    *https://www.figma.com/
+
+    *https://getbootstrap.com/
+    
+ ## ✒️Autores
+
+<br>
+Aluno: <br>
+ <img src="isabelle.png" width="20px"> Isabelle Nascimento de Oliveira <br>
