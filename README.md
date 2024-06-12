@@ -37,7 +37,19 @@ Desenvolvimento de scripts PHP para conectar a landing page ao banco de dados, p
 ## ⚙️Funcionalidades
 
 <br>
-### 📱Tecnologias utilizadas
+### 📱Tecnologias utilizadas <br><br>
+  PHP <br>
+ <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> <br>
+  JAVASCRIPT <br>
+ <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <br>
+  HTML<br>
+  <img alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
+  CSS<br>
+ <img alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
+ 
+`Mysql ` <br>
+`SQL`
+
 
 ## 🔠Fontes consultadas
 
@@ -54,5 +66,6 @@ Desenvolvimento de scripts PHP para conectar a landing page ao banco de dados, p
  ## ✒️Autores
 
 <br>
-Aluno: <br>
+Aluna: <br>
+<br>
  <img src="imagens/isabelle.PNG" width="20px"> Isabelle Nascimento de Oliveira <br>
