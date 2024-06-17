@@ -23,10 +23,11 @@ Estilo com CSS e Validação das Informações com JavaScript.
 <br>
 <br>
 `Processo de criação da land page`<br>
-Utilizei o figma como base para o protótipo da tela, onde adcionei a estilização para colocar na land page.
+Utilizei o figma como base para o protótipo da tela, onde adcionei a estilização para colocar na land page. <BR><br>
+Protótipo <br><br>
+     ![image](imagens/landpage.gif)
  * https://www.figma.com/proto/75FgxJXkbzoJ6MrhpblwEx/Untitled?node-id=3-147&t=WCY45RUbgfbc18dD-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
-   <br>
-
+   
 Criação de um Banco de Dados utilizando SQL:<br>
 Configuração de um banco de dados SQL para armazenar as informações dos usuários e mensagens de contato de maneira eficiente e segura.
 <br>
@@ -50,6 +51,7 @@ Desenvolvimento de scripts PHP para conectar a landing page ao banco de dados, p
 `Mysql ` <br>
 `SQL`
 
+## ⚙️Funcionalidades
 
 ## 🔠Fontes consultadas
 
