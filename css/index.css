@@ -1,3 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+
+/* Lista de telas */
 nav.menu {
     background-color: #0C356A;
     height: 100px;
@@ -21,61 +27,222 @@ ul li.item-menu {
 ul li.item-menu a {
     display: inline-block;
     margin-top: 16px;
-    margin-bottom: 190px; 
+    margin-bottom: 180px;
     padding: 12px;
-    margin-left: 60px; 
+    margin-left: 60px;
     text-decoration: none;
     color: #ffffff;
-    
-    
+
+
 }
 
-img.logo{
+/* **************************************************************************************************** */
+/* Tela inicial de chamada */
+
+img.logo {
     width: 40%;
     height: 20%;
     position: relative;
     margin-top: 6%;
-    left: 80px;
-    }
-    /* Um aplicativo inovador que democratiza o acesso */
-    
-    .texto_inicial{
+
+}
+
+/* Um aplicativo inovador que democratiza o acesso */
+
+.texto_inicial {
     position: relative;
-    margin-top: 4% ;
-    left: 140px;
+    font-family: "Inter", sans-serif;
+    margin-top: 4%;
+    left: 40px;
     height: 50%;
-    width: 700px; /* Define a largura da caixa de texto justificado */
+    width: 700px;
+    /* Define a largura da caixa de texto justificado */
     text-align: justify;
-     letter-spacing: 2px;
-    
-    }
+    letter-spacing: 2px;
 
-    /* Vem com a gente! */
-    .chamada{
-        position: relative;
-        margin-top: 3% ;
-        left: 140px;
-        width: 700px; /* Define a largura da caixa de texto justificado */
-        text-align: justify;
-     color: #0C356A;
-    }
-
-img.adolescentes{
-width: 40%;
-height: 50%;
-left: 60px;
-float: right;
-}
-.linha-separadora {
-    border-bottom: 1px solid black; /* Define a borda inferior */
-    margin: 20px 0; /* Adiciona espaço acima e abaixo da linha */
 }
 
-img.fundo{
-    
+/* Vem com a gente! */
+.chamada {
+    position: relative;
+    font-family: "Fredoka",sans-serif;
+    font-weight: bold; 
+    letter-spacing: 2px;
+    margin-top: 3%;
+    left: 40px;
+    width: 700px;
+    /* Define a largura da caixa de texto justificado */
+    text-align: justify;
+    color: #0C356A;
+}
+
+img.adolescentes {
+    width: 35%;
+    height: 45%;
+    left: 60px;
+    float: right;
+    margin-top: 3%;
+}
+
+.linha_separadora {
+    border-bottom: 3px solid #FFD23F;
+    /* Define a borda inferior */
+    position: relative;
+    left: 60px;
+    width: 90%;
+    margin: 80px 0;
+    /* Adiciona espaço acima e abaixo da linha */
+}
+
+/* **************************************************************************************************** */
+/* Tela de beneficios */
+
+
+.Container_beneficio {
+    display: flex;
+    justify-content: space-around;
+    /* Espaçamento igual entre os quadrados */
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.beneficio1 {
+    width: 300px;
+    /* Largura do quadrado */
+    height: 300px;
+    /* Altura do quadrado */
+    border: none;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #ECECEC;
+    margin: 100px;
+}
+
+.beneficio2 {
+    width: 300px;
+    /* Largura do quadrado */
+    height: 300px;
+    /* Altura do quadrado */
+    border: none;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #ECECEC;
+    margin: 100px;
+}
+
+.beneficio3 {
+    width: 300px;
+    /* Largura do quadrado */
+    height: 300px;
+    /* Altura do quadrado */
+    border: none;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #ECECEC;
+    margin: 100px;
+
+
+}
+
+
+
+
+.titulo_beneficio {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.txt_beneficio{
+    display: block;
+    margin-top: 10px;
+    font-size: 1em;
+    width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* **************************************************************************************************** */
+/* Tela final */
+
+.container_final {
+    position: relative;
+    width: 100%;
+   
+}
+#texto_final {
+    font-family: "Fredoka", sans-serif;
+    color: #ffffff;
+    position: absolute;
+    width: 35%;
+    height: 45%;
+    left: 780px;
+    top: 30%;
+    margin-top: 800px;
+    z-index: 2;
+    font-size: 45px;
+}
+
+
+img.fundo {
+
     position: relative;
     width: 110%;
-    height: 90%;
+    height: 100%;
     float: right;
     margin-top: 30%;
-    }
+}
+.whatsapp{
+    font-family: "Fredoka", sans-serif;
+    color: #ffffff;
+    position: absolute;
+    width: 35%;
+    height: 45%;
+    left: 800px;
+  margin-top: 1700px;
+    font-size: 20px;
+
+}
+.instagran{
+        font-family: "Fredoka", sans-serif;
+    color: #ffffff;
+    position: absolute;
+    width: 35%;
+    height: 45%;
+    left: 1120px;
+  margin-top: 1700px;
+    font-size: 20px;
+}
